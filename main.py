@@ -66,7 +66,6 @@ if __name__ == "__main__":
                     " various countries/contexts and review various tools and techniques."
                     " We will discuss the iterative process of use cases and  requirements analysis."
                     " Guest lectures will make you acquainted with various perspectives on ICT4D.")
-    print(english_text)
     # generates list of amplitude values as output
     # wav = tts.english_text_to_french_speech(english_text)
     # generates a wav file as output
